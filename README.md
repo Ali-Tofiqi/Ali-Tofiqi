@@ -14,6 +14,5 @@
 <a href="https://www.linkedin.com/in/ali-tofiqi/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_ali_tofiqi" height="30" width="40" /></a>  
 <!-- <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ali_tofiqi" height="30" width="40" /></a> -->
   <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter_ali_tofiqi" height="30" width="30" /></a>
-<a href="https://www.instagram.com/alitofiqiii/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ali_tofiqi" height="30" width="30" /></a>
 <a href = "mailto:tofiqiii.ali@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
 </p>
